@@ -1,3 +1,5 @@
+![Mi Banner](/banner.png)
+
 # Hi, I'm Cristian Beltrán 👋
 
 ### Data Engineer | Data & Analytics | Cloud
@@ -189,4 +191,3 @@ I’m interested in opportunities involving:
 ---
 
 > **Build data systems that are reliable, scalable, and useful.**
-![Mi Banner](/banner.png)
