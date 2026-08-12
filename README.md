@@ -1,6 +1,6 @@
 # Hi, I'm Cristian Beltrán 👋
 
-### Senior Data Engineer | Data & Analytics | Cloud
+### Data Engineer | Data & Analytics | Cloud
 
 I’m a **Data Engineer with 8+ years of experience** across Data Engineering, Business Intelligence, and Analytics.
 
